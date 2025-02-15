@@ -30,6 +30,6 @@ Cada modelo se entrena con diferentes configuraciones de vectorización para com
 Reporte de Métricas y Conclusiones
 📊 Se presentan métricas como precisión, recall, F1-score y matriz de confusión, junto con conclusiones sobre el rendimiento de cada modelo.
 
-5️⃣ Pruebas con el Preprocesado Corregido
+4️⃣ Pruebas con el Preprocesado Corregido
 🔍 Se realizan ajustes en el preprocesamiento para mejorar la calidad del modelo y se vuelven a evaluar los resultados.
 
