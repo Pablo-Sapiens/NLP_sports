@@ -27,8 +27,7 @@ Vectorización con CountVectorizer y TfidfVectorizer
 Regresión Logística
 K-Vecinos
 Cada modelo se entrena con diferentes configuraciones de vectorización para comparar su rendimiento.
-
-4️⃣ Reporte de Métricas y Conclusiones
+Reporte de Métricas y Conclusiones
 📊 Se presentan métricas como precisión, recall, F1-score y matriz de confusión, junto con conclusiones sobre el rendimiento de cada modelo.
 
 5️⃣ Pruebas con el Preprocesado Corregido
